@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## QR Code Generator [Live Link](https://name-conversion-js.netlify.app/)
+## QR Code Generator [Live Link](https://qr-code-generator-js-6.netlify.app/)
 
 - Skills Gained in this project
 
