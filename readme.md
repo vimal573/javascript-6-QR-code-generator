@@ -6,7 +6,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/JAVASCRIPT-DOM-orange)
 
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--QR-CODE--GENERATOR-lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--QR--CODE--GENERATOR-lightgrey)
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
